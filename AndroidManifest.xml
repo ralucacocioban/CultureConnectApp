@@ -1,31 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.opentalk"
+    package="com.techsoc.cultureconnect"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="11"
-        android:targetSdkVersion="18" />
-
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+    
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.INTERNET"/>
+    
 
-    <application android:label="@string/app_name"
-                  >
-        <activity android:name=".BluetoothChat"
-                  android:label="@string/app_name"
-                  android:configChanges="orientation|keyboardHidden">
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/CultureConnectTheme" >
+        
+        <activity
+            android:name="com.techsoc.cultureconnect.countrypicker.CountryPickerActivity"
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".DeviceListActivity"
-                  android:label="select_device"
-                  
-                  android:configChanges="orientation|keyboardHidden" />
+        
+        <activity
+            android:name="com.techsoc.cultureconnect.navigation.NavigationActivity"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <activity
+            android:name="com.techsoc.cultureconnect.talk.BluetoothChat"
+            android:label="@string/app_name" >
+        </activity>
+        
+         <activity
+            android:name="com.techsoc.cultureconnect.talk.DeviceListActivity"
+            android:label="@string/app_name" >
+        </activity>
+        
     </application>
+
 </manifest>
-   

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="CultureConnectTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+
+    <item name="android:editTextBackground">@drawable/cultureconnecttheme_edit_text_holo_light</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewCultureConnectTheme</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/cultureconnecttheme_btn_check_holo_light</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/cultureconnecttheme_btn_radio_holo_light</item>
+
+    <item name="android:buttonStyle">@style/ButtonCultureConnectTheme</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonCultureConnectTheme</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerCultureConnectTheme</item>
+
+    <item name="android:tabWidgetStyle">@style/TabWidgetCultureConnectTheme</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarCultureConnectTheme</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarCultureConnectTheme</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarCultureConnectTheme</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigCultureConnectTheme</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallCultureConnectTheme</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleCultureConnectTheme</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/cultureconnecttheme_list_selector_holo_light</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/cultureconnecttheme_activated_background_holo_light</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/cultureconnecttheme_fastscroll_thumb_holo</item>
+
+  </style>
+
+</resources>
