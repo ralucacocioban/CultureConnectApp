@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.techsoc.cultureconnect"
     android:versionCode="2"
@@ -65,6 +66,8 @@
 
 </manifest>
 =======
+=======
+>>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.opentalk"
     android:versionCode="1"
@@ -94,5 +97,9 @@
                   android:configChanges="orientation|keyboardHidden" />
     </application>
 </manifest>
+<<<<<<< HEAD
+   
+>>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
+=======
    
 >>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66

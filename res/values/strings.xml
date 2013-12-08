@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <<<<<<< HEAD
+<<<<<<< HEAD
     
     <string-array name="options">
         <item>Facts</item>
@@ -46,10 +47,15 @@
 
 </resources>
 =======
+=======
+>>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
 
     <string name="app_name">OpenTalk</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
 
 </resources>
+<<<<<<< HEAD
+>>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
+=======
 >>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66

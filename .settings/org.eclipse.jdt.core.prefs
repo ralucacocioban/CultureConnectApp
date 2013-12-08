@@ -1,11 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 eclipse.preferences.version=1
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.6
 org.eclipse.jdt.core.compiler.compliance=1.6
 org.eclipse.jdt.core.compiler.source=1.6
 =======
+=======
+>>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
 eclipse.preferences.version=1
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.6
 org.eclipse.jdt.core.compiler.compliance=1.6
 org.eclipse.jdt.core.compiler.source=1.6
+<<<<<<< HEAD
+>>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
+=======
 >>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66

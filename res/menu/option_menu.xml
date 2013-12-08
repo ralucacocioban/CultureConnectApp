@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
 <!-- Copyright (C) 2009 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -16,6 +19,9 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+<<<<<<< HEAD
+>>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
+=======
 >>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/secure_connect_scan"
@@ -29,11 +35,15 @@
     <item android:id="@+id/discoverable"
           android:icon="@android:drawable/ic_menu_mylocation"
 <<<<<<< HEAD
+<<<<<<< HEAD
           android:title="Ensure Discoverable"
           android:showAsAction="ifRoom|withText" />
      <item android:id="@+id/navSettings"
           android:icon="@android:drawable/ic_menu_mylocation"
           android:title="@string/settings"
+=======
+          android:title="discoverable"
+>>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
 =======
           android:title="discoverable"
 >>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66

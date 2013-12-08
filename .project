@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>CultureConnnectWorksLatest</name>
@@ -33,6 +34,8 @@
 	</natures>
 </projectDescription>
 =======
+=======
+>>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>OpenTalk</name>
@@ -66,4 +69,7 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 </projectDescription>
+<<<<<<< HEAD
+>>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
+=======
 >>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <resources>
 
     <!--
@@ -11,6 +12,8 @@
 
 </resources>
 =======
+=======
+>>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
 <resources>
 
     <!--
@@ -22,4 +25,7 @@
     </style>
 
 </resources>
+<<<<<<< HEAD
+>>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
+=======
 >>>>>>> 5e3f2555f5bd1550337dec52a03abdecadd5fc66
