@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="CultureConnectTheme" parent="android:Theme.Light">
+
+    <item name="android:editTextStyle">@style/EditTextCultureConnectTheme</item>
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewCultureConnectTheme</item>
+    <item name="android:checkboxStyle">@style/CheckBoxCultureConnectTheme</item>
+    <item name="android:radioButtonStyle">@style/RadioButtonCultureConnectTheme</item>
+    <item name="android:buttonStyle">@style/ButtonCultureConnectTheme</item>
+    <item name="android:imageButtonStyle">@style/ImageButtonCultureConnectTheme</item>
+    <item name="android:spinnerStyle">@style/SpinnerCultureConnectTheme</item>
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemCultureConnectTheme</item>
+    <item name="android:tabWidgetStyle">@style/TabWidgetCultureConnectTheme</item>
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarCultureConnectTheme</item>
+    <item name="android:seekBarStyle">@style/SeekBarCultureConnectTheme</item>
+    <item name="android:ratingBarStyle">@style/RatingBarCultureConnectTheme</item>
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigCultureConnectTheme</item>
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallCultureConnectTheme</item>
+    <item name="android:buttonStyleToggle">@style/ToggleCultureConnectTheme</item>
+    <item name="android:listViewStyle">@style/ListViewCultureConnectTheme</item>
+    <item name="android:listViewWhiteStyle">@style/ListViewCultureConnectTheme.White</item>
+    <item name="android:spinnerItemStyle">@style/SpinnerItemCultureConnectTheme</item>
+	<item name="android:actionBarItemBackground">@drawable/selectable_background_culture_connect_ab</item>
+    <item name="android:popupMenuStyle">@style/PopupMenu.Culture_connect_ab</item>
+    <item name="android:dropDownListViewStyle">@style/DropDownListView.Culture_connect_ab</item>
+    <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Culture_connect_ab</item>
+    <item name="android:actionDropDownStyle">@style/DropDownNav.Culture_connect_ab</item>
+    <item name="android:actionBarStyle">@style/ActionBar.Solid.Culture_connect_ab</item>
+    <item name="android:actionModeBackground">@drawable/cab_background_top_culture_connect_ab</item>
+    <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_culture_connect_ab</item>
+    <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Culture_connect_ab</item>
+        
+  </style>
+
+</resources>
